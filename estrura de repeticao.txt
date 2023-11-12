@@ -1,0 +1,9 @@
+<script>
+numero = 1;
+soma = 0;
+while(numero > 0)
+{
+
+	numero = prompt("informar mumero ou (0) para encerar");
+
+}
